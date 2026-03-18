@@ -1,2 +1,33 @@
-# PS3-Jailbreak-CFW-Tutorial
-This GitHub post explains how to jailbreak a PlayStation 3 depending on your console model for educational purposes.  This tutorial shows you how to jailbreak your console using CFW from A to Z, as well as which .pkg files to install.  Enjoy, and don’t forget to leave a star!
+# 📘 What this project explains
+
+This project explains:
+
+- How to jailbreak a PlayStation 3 using CFW  
+- What the risks of CFW are  
+- How to install `.pkg` files  
+- How to properly get started in the jailbreaking world in an educational way  
+
+---
+
+# 🌍 Available languages
+
+Currently available:
+
+- Arabic  
+- Bengali  
+- Chinese  
+- English  
+- Spanish  
+- French  
+
+---
+
+# 🔜 Upcoming languages
+
+Languages that will be added in the future:
+
+- Hindi  
+- Japanese  
+- Urdu  
+- Portuguese  
+- Russian  
