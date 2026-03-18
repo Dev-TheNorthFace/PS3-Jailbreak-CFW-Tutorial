@@ -7,15 +7,20 @@ This project explains:
 - How to install `.pkg` files  
 - How to properly get started in the jailbreaking world in an educational way
 
-⚠️ Important Notice
+# ⚠️ Important Notice
 
-This guide simplifies the process of installing custom firmware on a PlayStation 3.
+This project is intended for educational purposes only.
 
-Modifying your console may violate Sony’s terms of service and can lead to restrictions such as console bans.
+This guide explains how to install custom firmware (CFW) on a PlayStation 3.  
+Modifying your console may violate Sony’s terms of service and can result in restrictions such as a permanent console ban from online services (PSN).
 
-This guide does not encourage illegal activities such as piracy.
+We do not support or promote piracy in any form.  
+Do not use this guide to download or play illegal copies of games.
 
-Users must ensure they comply with their local laws before proceedi
+Users are solely responsible for how they use the information provided in this guide.  
+You must ensure that you comply with all applicable laws in your country before proceeding.
+
+By following this guide, you acknowledge that you understand the risks involved.
 
 ---
 
